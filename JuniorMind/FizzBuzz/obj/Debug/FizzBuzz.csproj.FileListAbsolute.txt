@@ -1,0 +1,4 @@
+C:\Users\FILIPALEX\Documents\GitHub\JuniorMind\JuniorMind\FizzBuzz\bin\Debug\FizzBuzz.dll
+C:\Users\FILIPALEX\Documents\GitHub\JuniorMind\JuniorMind\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\FILIPALEX\Documents\GitHub\JuniorMind\JuniorMind\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\FILIPALEX\Documents\GitHub\JuniorMind\JuniorMind\FizzBuzz\obj\Debug\FizzBuzz.pdb
