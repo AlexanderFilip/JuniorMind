@@ -1,0 +1,5 @@
+C:\Users\FILIPALEX\Documents\GitHub\JuniorMind\JuniorMind1\FarmersLand\bin\Debug\FarmersLand.dll
+C:\Users\FILIPALEX\Documents\GitHub\JuniorMind\JuniorMind1\FarmersLand\bin\Debug\FarmersLand.pdb
+C:\Users\FILIPALEX\Documents\GitHub\JuniorMind\JuniorMind1\FarmersLand\obj\Debug\FarmersLand.csprojResolveAssemblyReference.cache
+C:\Users\FILIPALEX\Documents\GitHub\JuniorMind\JuniorMind1\FarmersLand\obj\Debug\FarmersLand.dll
+C:\Users\FILIPALEX\Documents\GitHub\JuniorMind\JuniorMind1\FarmersLand\obj\Debug\FarmersLand.pdb
