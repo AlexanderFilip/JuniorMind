@@ -17,10 +17,11 @@ namespace NumeralsToRoman
             int a=1, b=2, max = 0;
              max = (a > b) ? a : b; // Base Idea
 
-            int unit = number % 10;
-            int zecimal = number / 10;
+             int unit = number % 10; int zecimal = number / 10;
+           
             string romanNumber = "";
-            romanNumber += "urmeaza";
+
+            romanNumber += (zecimal ==10)? "X": "Not";
            
             return "";
         }
