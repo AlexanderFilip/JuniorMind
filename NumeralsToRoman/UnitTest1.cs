@@ -9,21 +9,23 @@ namespace NumeralsToRoman
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual("X",TransformNumber(10));
+            Assert.AreEqual("X", TransformNumber(10));
         }
 
         public string TransformNumber(int number)
         {
-            int a=1, b=2, max = 0;
-             max = (a > b) ? a : b; // Base Idea
+            int a = 1, b = 2, max = 0;
+            int unit = 0;
+            int zecimal = 0;
+            max = (a > b) ? a : b; // Base Idea
 
-             int unit = number % 10; int zecimal = number / 10;
-           
+            unit = (number > 10) ? number % 10 : number;
+            zecimal = (number > 10) ? number / 10 : number;
+
             string romanNumber = "";
 
-            romanNumber += (zecimal ==10)? "X": "Not";
-           
-            return "";
+            romanNumber += (zecimal == 10) ? "X" : "Not"; 
+            return romanNumber;
         }
 
     }
