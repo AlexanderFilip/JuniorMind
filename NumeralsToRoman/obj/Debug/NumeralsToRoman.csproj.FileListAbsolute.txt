@@ -1,0 +1,5 @@
+C:\Users\FILIPALEX\Documents\GitHub\JuniorMind\NumeralsToRoman\bin\Debug\NumeralsToRoman.dll
+C:\Users\FILIPALEX\Documents\GitHub\JuniorMind\NumeralsToRoman\bin\Debug\NumeralsToRoman.pdb
+C:\Users\FILIPALEX\Documents\GitHub\JuniorMind\NumeralsToRoman\obj\Debug\NumeralsToRoman.csprojResolveAssemblyReference.cache
+C:\Users\FILIPALEX\Documents\GitHub\JuniorMind\NumeralsToRoman\obj\Debug\NumeralsToRoman.dll
+C:\Users\FILIPALEX\Documents\GitHub\JuniorMind\NumeralsToRoman\obj\Debug\NumeralsToRoman.pdb
