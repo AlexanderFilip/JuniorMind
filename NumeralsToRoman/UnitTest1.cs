@@ -7,7 +7,48 @@ namespace NumeralsToRoman
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestMethodForInput11ToConvertToRoman()
+        {
+            Assert.AreEqual("XI", TransformNumber(11));
+        }
+        [TestMethod]
+        public void TestMethodForInput22ToConvertToRoman()
+        {
+            Assert.AreEqual("XXII", TransformNumber(22));
+        }
+        [TestMethod]
+        public void TestMethodForInput33ToConvertToRoman()
+        {
+            Assert.AreEqual("XXXIII", TransformNumber(33));
+        }
+             [TestMethod]
+        public void TestMethodForInput44ToConvertToRoman()
+        {
+            Assert.AreEqual("XLIV", TransformNumber(44));
+        }
+         [TestMethod]
+             public void TestMethodForInput55ToConvertToRoman()
+        {
+            Assert.AreEqual("LV", TransformNumber(55));
+        }
+         [TestMethod]
+         public void TestMethodForInput66ToConvertToRoman()
+        {
+            Assert.AreEqual("LXVI", TransformNumber(66));
+        }
+
+         [TestMethod]
+         public void TestMethodForInput77ToConvertToRoman()
+        {
+            Assert.AreEqual("LXXVII", TransformNumber(77));
+        }
+         [TestMethod]
+         public void TestMethodForInput88ToConvertToRoman()
+        {
+            Assert.AreEqual("LXXXVIII", TransformNumber(88));
+        }
+         [TestMethod]
+         public void TestMethodForInput99ToConvertToRoman()
         {
             Assert.AreEqual("XCIX", TransformNumber(99));
         }
